@@ -1,2 +1,13 @@
-# ArduAlarm V1.0
-ArduAlarm V1.0 es un proyecto basado en arduino uno que tiene como finalidad crear una alarma con una LCD, un sensor de ultrasonidos y un rfid.
+# ArduAlarm
+
+ArduAlarm es un proyecto de alarma basado en arduino.
+
+## Componentes
+
+ - Arduino Uno
+ - Keypad 4x4
+ - Modulo GSM 800L
+ - Cargador de baterias LIPO
+ - Rele 220v
+ - LCD I2C 16x2
+ - Sensor para puertas
