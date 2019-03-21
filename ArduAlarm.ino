@@ -33,6 +33,11 @@ byte currentPasswordLength = 0;
 
 HologramSIMCOM Hologram(TX_PIN, RX_PIN, RESET_PIN, HOLO_KEY);
 
+//Configuracion de las led
+int ledRoja = 53;
+int ledAmarilla = 52;
+int ledVerde = 51;
+
 void setup() {
   Serial.begin(9600);
   }
