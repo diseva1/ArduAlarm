@@ -14,3 +14,6 @@ ArduAlarm es un proyecto de alarma basado en arduino.
 
 ## Wiring
 ![Connection_diagram](https://raw.githubusercontent.com/diseva1/ArduAlarm/master/connections_diagram.jpg)
+
+## Video
+[![Watch the video](https://img.youtube.com/vi/J2ibthyDfs0/maxresdefault.jpg)](https://www.youtube.com/watch?v=J2ibthyDfs0)
